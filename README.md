@@ -37,4 +37,4 @@ djksghvjklrdshgiuserhguirehghreuihuhhuioiuguighjjhkhjgjhgjhgjhgefgehgfregfhjgfhj
 </html>
 ```
 [link](https://www.fje.edu/ca/jesuites-bellvitge/lescola "Enlace a la web del cole")
-![Imagen de Ter Stegen mejor portero del mundo](https://github.com/RafaelPascualLlorca/repositorio2/blob/main/ter-stegen.jpg "Titulo opcional")
+![Imagen de Ter Stegen mejor portero del mundo](https://github.com/RafaelPascualLlorca/repositorio2/blob/main/ter-stegen.jpg "Ter Stegen, mejor portero del mundo")
