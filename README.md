@@ -27,7 +27,7 @@ Esto es un parrafo wqeihffiuewfuieahfiuoershguirehguiruihreuighrewughrewuihguihw
 
 djksghvjklrdshgiuserhguirehghreuihuhhuioiuguighjjhkhjgjhgjhgjhgefgehgfregfhjgfhjdsgfheagfkewgafhgdsfhkgdshfgdskjhfgdsjhfgsdjhgfhjdsgfhdsgfjhdsgfjhdgfjhgdsfjhgjhfgsdjhkfdskjhgfkjhsdgfhjdsghjdsgfhjgfhjkdsgfhsdgfhdsgfhgdshfgsjhkfgjsdhgfjhgfjsdgfhdgfhgdshjfgdsajhgregfvjkvgdsfhvgdhjfgjhvgfjh.
 
-``
+```
 <html>
     <head>
     <head>
@@ -35,5 +35,5 @@ djksghvjklrdshgiuserhguirehghreuihuhhuioiuguighjjhkhjgjhgjhgjhgefgehgfregfhjgfhj
 <p> Esto es un código en HTML </p>
     <body>
 </html>
-``
+```
 [link](https://www.fje.edu/ca/jesuites-bellvitge/lescola "Enlace a la web del cole")
