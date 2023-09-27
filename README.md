@@ -49,6 +49,6 @@ djksghvjklrdshgiuserhguirehghreuihuhhuioiuguighjjhkhjgjhgjhgjhgefgehgfregfhjgfhj
 
 ###### Examen
 
--[] Opción A
+-[ ] Opción A
 -[x] Opción B
--[] Opción C
+-[ ] Opción C
