@@ -44,3 +44,11 @@ djksghvjklrdshgiuserhguirehghreuihuhhuioiuguighjjhkhjgjhgjhgjhgefgehgfregfhjgfhj
 |----------|:----------:|----------:|
 |Col 2 es|centrada|$500|
 |Col 3 es|Derecha|1500€|
+|Col 4 es|Derecha|4€|
+|Col 5 es|Derecha|500€|
+
+###### Examen
+
+-[] Opción A
+-[x] Opción B
+-[] Opción C
